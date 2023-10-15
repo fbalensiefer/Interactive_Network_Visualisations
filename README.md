@@ -37,4 +37,4 @@ Including Pyvis in your arsenal of tools for interactive network graph visualiza
 Interactive network graph visualization with Python opens up a world of possibilities for exploring complex relationships and patterns within your data. By leveraging the right Python libraries and tools, you can create interactive network graphs that are not only informative but also engaging for your audience. In the following guides and tutorials, we will dive deeper into the practical aspects of creating such visualizations using the mentioned libraries.
 
 
-### [Visit the Jupyter Notebook](InteracNetwVis.ipynb)
+### [Visit the Jupyter Notebook](https://nbviewer.org/github/fbalensiefer/Interactive_Network_Visualisations/blob/d68cd3cc26a217721ea1ab38b1e59638d1bb247e/InteracNetwVis.ipynb)
